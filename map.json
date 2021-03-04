@@ -874,7 +874,7 @@
   {
     "columns": 84,
     "firstgid": 321,
-    "image": "C:\/Users\/roser\/Documents\/GitHub\/MS9\/PracticeTest\/Marktstr_Wall_Tileset.png",
+    "image": "PracticeTest\/Marktstr_Wall_Tileset.png",
     "imageheight": 2560,
     "imagewidth": 2688,
     "margin": 0,
@@ -887,7 +887,7 @@
   {
     "columns": 6,
     "firstgid": 7041,
-    "image": "C:\/Users\/roser\/Documents\/GitHub\/MS9\/PracticeTest\/WalsandFloor.png",
+    "image": "PracticeTest\/WalsandFloor.png",
     "imageheight": 384,
     "imagewidth": 192,
     "margin": 0,
@@ -900,7 +900,7 @@
   {
     "columns": 84,
     "firstgid": 7113,
-    "image": "C:\/Users\/roser\/Documents\/GitHub\/MS9\/PracticeTest\/Marktstr_Wall_Tileset.png",
+    "image": "PracticeTest\/Marktstr_Wall_Tileset.png",
     "imageheight": 2560,
     "imagewidth": 2688,
     "margin": 0,
