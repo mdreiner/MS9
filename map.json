@@ -838,7 +838,7 @@
         {
          "columns":84,
          "firstgid":321,
-         "image":"PracticeTest\/Marktstr_Wall_Tileset.png",
+         "image":"PracticeTest/Marktstr_Wall_Tileset.png",
          "imageheight":2560,
          "imagewidth":2688,
          "margin":0,
@@ -851,7 +851,7 @@
         {
          "columns":6,
          "firstgid":7041,
-         "image":"PracticeTest\/WalsandFloor.png",
+         "image":"PracticeTest/WalsandFloor.png",
          "imageheight":384,
          "imagewidth":192,
          "margin":0,
@@ -864,7 +864,7 @@
         {
          "columns":84,
          "firstgid":7113,
-         "image":"PracticeTest\/Marktstr_Wall_Tileset.png",
+         "image":"PracticeTest/Marktstr_Wall_Tileset.png",
          "imageheight":2560,
          "imagewidth":2688,
          "margin":0,
@@ -876,7 +876,7 @@
         }, 
         {
          "firstgid":13833,
-         "source":"PracticeTest\/Wals.tsx"
+         "source":"PracticeTest/Wals.tsx"
         }],
  "tilewidth":32,
  "type":"map",
