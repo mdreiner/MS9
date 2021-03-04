@@ -872,12 +872,43 @@
          "tilewidth":32
         }, 
         {
+         "columns":84,
          "firstgid":321,
-         "source":"D:\/Work\/Practice Game\/Maps\/Test\/Marktstr Walls.tsx"
+         "image":"D:\/Work\/Practice Game\/Maps\/Test\/Practice Sprites\/Marktstr_Wall_Tileset.png",
+         "imageheight":2560,
+         "imagewidth":2688,
+         "margin":0,
+         "name":"Marktstr Walls",
+         "spacing":0,
+         "tilecount":6720,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":6,
          "firstgid":7041,
-         "source":"D:\/Work\/Practice Game\/Maps\/Test\/PracticeWalls and Floor.tsx"
+         "image":"D:\/Work\/Practice Game\/Maps\/Test\/WalsandFloor.png",
+         "imageheight":384,
+         "imagewidth":192,
+         "margin":0,
+         "name":"PracticeWalls and Floor",
+         "spacing":0,
+         "tilecount":72,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":84,
+         "firstgid":7113,
+         "image":"D:\/Work\/Practice Game\/Maps\/Test\/Practice Sprites\/Marktstr_Wall_Tileset.png",
+         "imageheight":2560,
+         "imagewidth":2688,
+         "margin":0,
+         "name":"Marktstr Walls",
+         "spacing":0,
+         "tilecount":6720,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
