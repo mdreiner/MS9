@@ -838,7 +838,7 @@
         {
          "columns":6,
          "firstgid":321,
-         "image":"PracticeTest/WalsandFloor.png",
+         "image":"WalsandFloor.png",
          "imageheight":384,
          "imagewidth":192,
          "margin":0,
@@ -851,7 +851,7 @@
         {
          "columns":42,
          "firstgid":393,
-         "image":"PracticeTest/Marktstr_Wall_TilesetDownScaled.png",
+         "image":"Marktstr_Wall_TilesetDownScaled.png",
          "imageheight":1280,
          "imagewidth":1344,
          "margin":0,
