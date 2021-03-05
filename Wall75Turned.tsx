@@ -3,7 +3,17 @@
  <image source="Walls75.png" width="2016" height="1920"/>
  <tile id="0">
   <objectgroup draworder="index" id="2">
-   <object id="1" x="0.0946186" y="0" width="31.6972" height="31.8865"/>
+   <object id="3" x="1" y="1" width="32" height="32"/>
+  </objectgroup>
+ </tile>
+ <tile id="1">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="31" height="32"/>
+  </objectgroup>
+ </tile>
+ <tile id="63">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="1" y="0" width="30" height="33"/>
   </objectgroup>
  </tile>
 </tileset>
