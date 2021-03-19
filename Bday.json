@@ -49,16 +49,16 @@
          "name":"startLayer",
          "objects":[
                 {
-                 "gid":4244,
+                 "gid":2957,
                  "height":32,
-                 "id":3,
+                 "id":6,
                  "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":32,
-                 "x":2496,
-                 "y":1152
+                 "x":3201.33333333333,
+                 "y":801.333333333333
                 }],
          "opacity":1,
          "properties":[
@@ -73,7 +73,7 @@
          "y":0
         }],
  "nextlayerid":7,
- "nextobjectid":6,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
