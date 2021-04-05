@@ -63,6 +63,12 @@
          "id":17,
          "name":"Pictures",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/pads.cyber4edu.org\/s\/Jwwix03RW"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":49,
