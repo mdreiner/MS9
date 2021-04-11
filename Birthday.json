@@ -8,6 +8,12 @@
          "id":1,
          "name":"floor",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"floorLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
